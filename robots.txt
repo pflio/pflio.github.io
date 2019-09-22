@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /settings/
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
