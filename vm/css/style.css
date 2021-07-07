@@ -619,7 +619,7 @@ form {
     .webinar {
         position: absolute;
         right: 100px;
-        bottom: 100px;
+        bottom: 80px;
     }
     .dotsl {
         bottom: -128px;
@@ -645,7 +645,7 @@ form {
     .webinar {
         position: absolute;
         right: 100px;
-        bottom: 100px;
+        bottom: 80px;
     }
     .dotsl {
         bottom: -154px;
@@ -676,7 +676,7 @@ form {
     .webinar {
         position: absolute;
         right: 100px;
-        bottom: 100px;
+        bottom: 80px;
     }
 
 }
@@ -1094,7 +1094,7 @@ hr::after {
         opacity: 0;
     }
 }
-.is-loaded .flex-hero{
+.is-loaded .header-logo{
     -webkit-animation: fadeInLogo 0.35s both cubic-bezier(0.3, 0, 0.2, 1);
     animation: fadeInLogo 0.35s both cubic-bezier(0.3, 0, 0.2, 1);
     will-change: transform;
